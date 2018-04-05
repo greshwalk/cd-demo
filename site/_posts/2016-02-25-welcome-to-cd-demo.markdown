@@ -1,14 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the NEW Continuous Delivery demonstration!"
-categories: demo
----
-
-This is an example post that you can make using Markdown to demonstrate a website being statically generated and deployed!
-
----
-layout: post
-title:  "Welcome to the Your Mom's Continuous Delivery demonstration!"
+title:  "Welcome to YOUR MOM's Continuous Delivery demonstration!"
 categories: demo
 ---
 
