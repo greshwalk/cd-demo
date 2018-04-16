@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome Yo Mamas Continuous Delivery demonstration!"
+title:  "Welcome Yo Daddy's Continuous Delivery demonstration!"
 categories: demo
 ---
 
-This is an examplkjlkj;lkj;lijl;kjlkj;lkj;lkj;lksing Markdown to demonstrate a website being statically generated and deployed!
+This is an examplsing Markdown to demonstrate a website being statically generated and deployed!
