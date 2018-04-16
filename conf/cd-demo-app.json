@@ -1,15 +1,15 @@
 {
-  "id": "/jenkins-deployed-app",
+  "id": "/cd-demo-app",
   "cmd": "jekyll serve",
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "dmennell/new-cicd-demo"
+      "image": "dmennell/cd-demo-app"
     },
     "portMappings": [
       {
         "containerPort": 4000,
-        "hostPort": 0,
+        "hostPort": 85,
         "protocol": "tcp",
         "name": "jenkins-deployed-app"
       }
