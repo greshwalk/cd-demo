@@ -17,11 +17,11 @@
   },
   "cpus": 1.0,
   "instances": 1,
-  # "labels": {
- #   "HAPROXY_0_VHOST": "192.168.1.212",
- #   "HAPROXY_GROUP": "external",
- #   "lastChangedBy": "velocity-team@mesosphere.com"
- # },
+  "labels": {
+   "HAPROXY_0_VHOST": "agrzeskow-publicsl-1nny11hyji569-941989081.us-west-2.elb.amazonaws.com",
+   "HAPROXY_GROUP": "external",
+   "lastChangedBy": "velocity-team@mesosphere.com"
+  },
   "mem": 1024,
   "networks": [
     {
