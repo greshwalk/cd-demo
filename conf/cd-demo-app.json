@@ -18,7 +18,7 @@
   "cpus": 1.0,
   "instances": 1,
   "labels": {
-   "HAPROXY_0_VHOST": "agrzeskow-publicsl-o8j48q4ausrk-845571189.us-west-2.elb.amazonaws.com",
+   "HAPROXY_0_VHOST": "agrzeskow-publicsl-7r954y3rzlj6-1797861071.us-west-2.elb.amazonaws.com",
    "HAPROXY_GROUP": "external",
    "lastChangedBy": "velocity-team@mesosphere.com"
   },
